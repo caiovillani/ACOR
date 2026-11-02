@@ -5,7 +5,7 @@
 > "O governo refere-se à ação prática, e se ela pretende ser eficaz, o processo de governo e o processo de planejamento devem coincidir, no presente, como um cálculo que precede e preside a ação."
 > — Carlos Matus
 
-O **Planejamento Estratégico Situacional (PES)** é uma proposta teórico-metodológica de planejamento voltada à ação governamental, criada pelo economista chileno **Carlos Matus**. Seu produto principal é um método que tem por núcleo os **problemas** e as **operações** realizadas para seu enfrentamento, organizados mediante uma estrutura modular de plano.
+O **Planejamento Estratégico Situacional (PES)** é uma proposta teórico-metodológica de planejamento voltada à ação governamental, criada pelo chileno **Carlos Matus**. Seu produto principal é um método que tem por núcleo os **problemas** e as **operações** realizadas para seu enfrentamento, organizados mediante uma estrutura modular de plano.
 
 Matus define o planejamento como:
 
@@ -150,7 +150,9 @@ A constante avaliação da situação para efetuar possíveis correções exige 
 
 ## 6. Triângulo de Governo
 
-O **Triângulo de Governo** é um modelo proposto por Matus que articula três variáveis interdependentes e essenciais para a capacidade de governar:
+O **Triângulo de Governo** é um modelo proposto por Matus que articula três variáveis interdependentes e essenciais para a capacidade de governar.
+
+> **Nota:** O conteúdo desta seção é baseado em fontes acadêmicas secundárias (artigos da ENAP e REDALYC sobre a obra de Matus), pois o artigo-fonte principal (Lima & Lima) não aborda este tópico.
 
 ### 6.1 Projeto de Governo
 
@@ -182,7 +184,9 @@ O funcionamento eficaz de um governo que pretende validar seus planos com fatos 
 2. **Orçamento por programas** — alocação de recursos vinculada às operações.
 3. **Gerência por operações** — gestão responsável pela execução.
 
-Matus ressalta que nada disto é possível se o jogo institucional for de baixa responsabilidade, não existir gerência criativa por operações e o dirigente não prestar contas nem souber exigi-las de seus executivos.
+Matus ressalta:
+
+> "Nada disto é possível se o jogo institucional for de baixa responsabilidade, não existir gerência criativa por operações e o dirigente não prestar contas nem souber exigi-las de seus executivos." (Matus, 1991:42)
 
 ---
 
@@ -208,11 +212,10 @@ A construção de um plano pelo PES não consiste em mera improvisação nem em 
 ### Obras de Carlos Matus
 
 - MATUS, C. **Estratégias políticas.** São Paulo: FUNDAP, 1996.
-- MATUS, C. **O Método PES: roteiro de análise teórica.** São Paulo: FUNDAP, 1997.
-- MATUS, C. **El líder sin Estado Mayor.** La Paz: Altadir, 1997.
+- MATUS, C. **O Método PES: roteiro de análise teórica.** São Paulo: FUNDAP, 1997b.
+- MATUS, C. **El líder sin Estado Mayor.** La Paz: Altadir, 1997a.
 - MATUS, C. **Teoría de la producción y el juego social.** Isla Negra: Altadir, 1998.
-- MATUS, C. **Política, Planejamento e Governo.** Brasília: IPEA, 1993.
-- MATUS, C. **Adeus, Senhor Presidente.** São Paulo: FUNDAP, 1996.
+- MATUS, C. (1991). Obra citada em Lima & Lima, p. 42. Título não confirmado nas fontes consultadas.
 
 ### Fontes consultadas
 
