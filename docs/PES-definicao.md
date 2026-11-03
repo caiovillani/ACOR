@@ -152,15 +152,14 @@ A constante avaliação da situação para efetuar possíveis correções exige 
 
 O **Triângulo de Governo** é um modelo proposto por Matus que articula três variáveis interdependentes e essenciais para a capacidade de governar.
 
-> **Nota:** O conteúdo desta seção é baseado em fontes acadêmicas secundárias (artigos da ENAP e REDALYC sobre a obra de Matus), pois o artigo-fonte principal (Lima & Lima) não aborda este tópico.
+> **Nota:** O artigo-fonte principal (Lima & Lima) não aborda este tópico. Esta seção resume o que as buscas retornaram sobre artigos acadêmicos (ENAP, REDALYC); os textos integrais não foram lidos, então convém conferir em *Política, Planejamento e Governo* (Matus) antes de citar.
 
 ### 6.1 Projeto de Governo
 
-A direção estratégica escolhida pelo governo, derivada de uma leitura do sistema social. Abrange os **problemas selecionados**, como serão abordados e como as oportunidades serão aproveitadas. O conteúdo propositivo dos planos decorre do projeto de governo.
-
+A direção estratégica escolhida pelo governo, derivada de uma leitura do sistema social. Abrange os **problemas selecionados**, como serão abordados e como as oportunidades serão aproveitadas.
 ### 6.2 Governabilidade do Sistema
 
-A capacidade política de **converter projetos em ação governamental efetiva**. Depende de variáveis controladas e não controladas pelo ator que governa. A relação entre a governabilidade do sistema e o conteúdo do projeto é central: quanto mais ambicioso o projeto, maior a governabilidade necessária.
+A capacidade política de **converter projetos em ação governamental efetiva**. Depende de variáveis controladas e não controladas pelo ator que governa. A relação entre a governabilidade do sistema e o conteúdo do projeto é central nessa variável.
 
 ### 6.3 Capacidade de Governo
 
@@ -172,7 +171,6 @@ As três variáveis se condicionam mutuamente:
 
 - Uma **baixa capacidade de governo** afeta a governabilidade, a qualidade das propostas e a gestão governamental.
 - A **governabilidade do sistema** limita o projeto de governo e faz demandas sobre a capacidade de governo.
-- Um **projeto ambicioso** exige maior governabilidade e maior capacidade de governo.
 
 ---
 
@@ -209,8 +207,9 @@ A construção de um plano pelo PES não consiste em mera improvisação nem em 
 
 ## Referências
 
-### Obras de Carlos Matus
+### Obras citadas por Lima & Lima (não consultadas diretamente)
 
+- HUERTAS, F. **Entrevista com Matus.** São Paulo: FUNDAP, 1996.
 - MATUS, C. **Estratégias políticas.** São Paulo: FUNDAP, 1996.
 - MATUS, C. **O Método PES: roteiro de análise teórica.** São Paulo: FUNDAP, 1997b.
 - MATUS, C. **El líder sin Estado Mayor.** La Paz: Altadir, 1997a.
@@ -219,7 +218,6 @@ A construção de um plano pelo PES não consiste em mera improvisação nem em 
 
 ### Fontes consultadas
 
-- HUERTAS, F. **Entrevista com Matus.** São Paulo: FUNDAP, 1996.
-- LIMA, L. A.; LIMA, V. A. **Planejamento Estratégico Situacional - PES.** Artigo acadêmico (PUC-Campinas / SINPRO-Campinas).
-- LACERDA, J. T.; BOTELHO, L. J.; COLUSSI, C. F. **Planejamento na Atenção Básica.** Módulo UNA-SUS/UFSC, Tópico 3.
-- RIVERA, F. J. U.; ARTMANN, E. **Planejamento e gestão em saúde: histórico e tendências com base numa visão comunicativa.** Ciência & Saúde Coletiva, 2010.
+- LIMA, L. A.; LIMA, V. A. **Planejamento Estratégico Situacional - PES.** Artigo (PUC-Campinas / SINPRO-Campinas). Disponível em: http://www.estiva-es.com.br/pdf/planeja.pdf. Fonte principal deste documento.
+- LACERDA, J. T.; BOTELHO, L. J.; COLUSSI, C. F. **Carlos Matus e o Planejamento Estratégico Situacional.** Módulo UNA-SUS/UFSC, Unidade 2, Tópico 3. Disponível em: https://unasus2.moodle.ufsc.br/pluginfile.php/33878/mod_resource/content/1/un2/top3_1.html.
+- Seção 6 (Triângulo de Governo): síntese de resumos de busca sobre artigos acadêmicos brasileiros (ENAP, REDALYC, SciELO); os textos integrais não foram lidos.
