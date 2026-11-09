@@ -1,223 +1,206 @@
-# Planejamento Estratégico Situacional (PES)
+# Planejamento Estratégico Situacional (PES): definição e elementos fundamentais
 
-## Definição Completa
+> **Escopo e limites deste documento**
+>
+> - Nesta síntese, **PES** designa o *Planejamento Estratégico Situacional*, método de Carlos Matus. A mesma sigla é usada para outros conceitos (por exemplo, *Plano Estadual de Saúde*).
+> - A base principal é o artigo de Lima e Lima (sem data), que dedica parte do texto ao uso do planejamento por sindicatos. As citações de Matus são **de segunda mão** (apud): "Matus, 1996" não é identificado com certeza no artigo, e as páginas citadas não foram conferidas nos livros originais.
+> - A seção 6 apoia-se em Misse (2017), que sintetiza o Triângulo de Governo a partir de Matus. Outras formulações do próprio Matus não foram lidas.
+> - O documento **não trata** de licitações, compras e contratos.
 
-> "O governo refere-se à ação prática, e se ela pretende ser eficaz, o processo de governo e o processo de planejamento devem coincidir, no presente, como um cálculo que precede e preside a ação."
-> — Carlos Matus
+## Resumo
 
-O **Planejamento Estratégico Situacional (PES)** é uma proposta teórico-metodológica de planejamento voltada à ação governamental, criada pelo chileno **Carlos Matus**. Seu produto principal é um método que tem por núcleo os **problemas** e as **operações** realizadas para seu enfrentamento, organizados mediante uma estrutura modular de plano.
+O PES é um método de planejamento criado pelo chileno Carlos Matus para aumentar a capacidade de governar. Seu núcleo são os **problemas** e as **operações** para enfrentá-los. O método se organiza em quatro **momentos** (explicativo, normativo, estratégico e tático-operacional), que se interpenetram e não formam etapas sequenciais. O momento estratégico trata da viabilidade política do plano, e o Triângulo de Ferro descreve o sistema de gestão que o sustenta.
 
-Matus define o planejamento como:
+## 1. Contexto histórico
 
-> "O cálculo situacional sistemático que relaciona o presente com o futuro e o conhecimento com a ação. A reflexão imediatista, tecnocrática e parcial não é planejamento, e tampouco é planejamento a reflexão que se isola da ação e torna-se uma mera pesquisa sobre o futuro." (Matus, 1996:19)
+Carlos Matus dirigiu a Divisão de Assessoria do **Instituto Latino-Americano de Planejamento Econômico e Social (ILPES)**, no Chile. Foi **Ministro da Economia** durante o governo Allende e presidiu o **Banco Central do Chile**. Com a ditadura militar, foi preso e exilado, e exerceu depois a presidência da **Fundação Altadir** (Alta Direção), na Venezuela (LIMA; LIMA, [s.d.]).
 
----
+A proposta de Matus começou a ser esboçada no **início dos anos 1970**, quando Matus passou a questionar a planificação normativa do planejamento econômico-social. Matus refletiu sobre como viabilizar um projeto de governo, embora afirme que o planejamento pode ser utilizado por todos os atores sociais. Depois da queda do governo Allende, dedicou-se a entender o que deu errado naquela gestão e passou a defender que dirigentes — em governos, partidos, sindicatos ou organizações públicas e privadas — ampliem sua **capacidade de governo** com o conjunto de conhecimentos que chama de **planejamento moderno**. O produto principal desse conjunto é o PES (LIMA; LIMA, [s.d.]).
 
-## 1. Contexto Histórico
+Segundo o artigo, o PES tem orientado experiências de planejamento no Brasil por reunir um corpo teórico e um método que, apesar de complexo, é bem articulado (LIMA; LIMA, [s.d.]). Misse (2017, p. 138) descreve o planejamento, na proposta de Matus, como "instrumento nuclear da ação de governo".
 
-Carlos Matus dirigiu a Divisão de Assessoria do **Instituto Latino-Americano de Planejamento Econômico e Social (ILPES)** no Chile. Posteriormente, foi **Ministro da Economia** durante o governo de Salvador Allende e presidiu o **Banco Central do Chile**. Com o advento da ditadura militar, foi preso e exilado, exercendo ulteriormente a função de presidente da **Fundação Altadir** (Alta Direção), na Venezuela.
+## 2. Definição conceitual
 
-A proposta teórico-metodológica de Matus começou a ser esboçada no **início dos anos 1970**, período em que iniciou o questionamento quanto à planificação normativa do planejamento econômico-social. Com a queda do governo Allende, Matus passou a se dedicar à compreensão do que deu errado naquela gestão e tornou-se um defensor intransigente da necessidade de que dirigentes políticos — estejam eles em posições de governo, partidos, sindicatos ou organizações públicas e privadas — ampliem sua **capacidade de governo** utilizando por instrumento de trabalho todo um conjunto de conhecimentos que denomina **planejamento moderno**, cujo produto principal é o PES.
+Matus afirma que a necessidade de planejar traz, em primeiro lugar, o reconhecimento de que queremos governar nosso futuro em direção satisfatória, isto é, queremos mudanças em determinada situação:
 
-No Brasil, o PES tem balizado experiências de planejamento em virtude de conter um corpo teórico bem articulado e apresentar um método potente, apesar de complexo.
+> "Se planejar é sinônimo de conduzir conscientemente, não existirá então alternativa ao planejamento. Ou planejamos ou somos escravos da circunstância. Negar o planejamento é negar a possibilidade de escolher o futuro, é aceitá-lo seja ele qual for." (MATUS, 1996, p. 14 apud LIMA; LIMA, [s.d.], p. 1)
 
----
+Quem não opta pelo planejamento busca a alternativa oposta ao plano: "[...] a improvisação ou a resignação [...]" (MATUS, 1996, p. 16 apud LIMA; LIMA, [s.d.], p. 1). O autor diz que o planejamento "[...] é o cálculo que precede e preside a ação" (MATUS, 1996, p. 17 apud LIMA; LIMA, [s.d.], p. 1) e o define como:
 
-## 2. Definição Conceitual
+> "[...] o cálculo situacional sistemático que relaciona o presente com o futuro e o conhecimento com a ação. A reflexão imediatista, tecnocrática e parcial não é planejamento, e tampouco é planejamento a reflexão que se isola da ação e torna-se uma mera pesquisa sobre o futuro." (MATUS, 1996, p. 19 apud LIMA; LIMA, [s.d.], p. 1)
 
-Matus afirma que a necessidade de planejar traz em si, em primeiro lugar, o reconhecimento de que queremos governar nosso futuro em direção satisfatória — queremos mudanças em determinada situação:
+O material da UNA-SUS/UFSC acrescenta que o PES surgiu da reflexão sobre a necessidade de aumentar a capacidade de governar e o concebe como processo dinâmico e contínuo, que precede e preside a ação e envolve aprendizagem, correção e nova aprendizagem. Nele, ação, situação e ator social formam um todo complexo, centrado em problemas e em operações (LACERDA; BOTELHO; COLUSSI, [s.d.]).
 
-> "Se planejar é sinônimo de conduzir conscientemente, não existirá então alternativa ao planejamento. Ou planejamos ou somos escravos da circunstância. Negar o planejamento é negar a possibilidade de escolher o futuro, é aceitá-lo seja ele qual for." (Matus, 1996:14)
+O núcleo do método é formado por problemas e pelas operações realizadas para enfrentá-los, expressos em uma estrutura modular de plano (LIMA; LIMA, [s.d.]).
 
-Não se optando pelo planejamento, busca-se a alternativa oposta ao plano, que é a **improvisação ou a resignação**. O planejamento é, portanto, **"o cálculo que precede e preside a ação"** (Matus, 1996:17).
-
-O PES é concebido como um **processo dinâmico e contínuo** que envolve o ciclo **aprendizagem–correção–aprendizagem**. Nele, ação, situação e ator social formam um todo complexo.
-
----
-
-## 3. Conceitos Fundamentais
+## 3. Conceitos fundamentais
 
 ### 3.1 Situação
 
-O conceito de **Situação** — termo que dá nome ao PES — é trabalhado por Matus a partir da fenomenologia da percepção: dentro do mesmo cenário podem-se ter várias percepções diferentes, conforme a apreciação de cada sujeito que desenvolve uma **explicação situacional** decorrente de sua posição na realidade.
+O conceito de **situação** — termo que dá nome ao PES — é trabalhado por Matus a partir da fenomenologia da percepção: dentro do mesmo cenário podem existir várias percepções, conforme a apreciação de cada sujeito, que desenvolve uma **explicação situacional** decorrente de sua posição na realidade. Por isso, a explicação de um ator não pode ser completa (não é a única) nem objetiva (é condicionada pelos interesses, visões de mundo, crenças e ideologias de cada ator social) (LIMA; LIMA, [s.d.]).
 
-Reconhece-se, assim, a impossibilidade de a explicação de um ator ser completa (uma vez que não é a única) e objetiva (porque estará condicionada pelos interesses, visões de mundo, crenças e ideologias de cada ator social).
-
-A situação é que dará significado à ação do ator social que planeja, permitindo conhecer as possibilidades e restrições tanto em relação a si mesmo como a outros atores. Para Matus, **entender a explicação do outro não significa aceitá-la**, mas o entendimento é imprescindível, porque sem ele não é possível definir estratégias.
+A situação dá significado à ação do ator que planeja e permite conhecer possibilidades e restrições, tanto as dele quanto as dos outros atores. Para Matus, **entender a explicação do outro não significa aceitá-la**, mas o entendimento é imprescindível, pois sem ele não é possível definir estratégias (LIMA; LIMA, [s.d.]).
 
 ### 3.2 Problema
 
-Matus define problema como:
+> "[...] a formalização para um ator de uma discrepância entre a realidade constatada ou simulada e uma norma de referência que ele aceita ou cria." (MATUS, 1996, p. 580 apud LIMA; LIMA, [s.d.], p. 2)
 
-> "A formalização para um ator de uma discrepância entre a realidade constatada ou simulada e uma norma de referência que ele aceita ou cria." (Matus, 1996:580)
+O material da UNA-SUS/UFSC descreve o problema como algo considerado fora dos padrões de normalidade para um ator social, padrões que dependem do conhecimento, do interesse e da capacidade de agir desse ator sobre a situação (LACERDA; BOTELHO; COLUSSI, [s.d.]).
 
-Diferentemente do planejamento tradicional, que se concentra em **setores**, o planejamento estratégico situacional tem seu centro de ação nos **problemas**, que podem ser considerados uma oportunidade para desencadear soluções que gerarão novas políticas.
+Diferentemente do planejamento tradicional, que se concentra em **setores**, o planejamento estratégico situacional tem seu centro de ação nos **problemas**, que podem ser considerados uma oportunidade para desencadear soluções que gerarão novas políticas. Processar um problema implica um esforço para que sua explicação seja **totalizante**, abordando-o política, econômica, ideológica e culturalmente e construindo a **rede causal** dos problemas elencados (LIMA; LIMA, [s.d.]).
 
-Processar um problema implica em um esforço para que sua explicação seja **totalizante**, abordando-o política, econômica, ideológica e culturalmente, construindo a **rede causal** dos problemas elencados.
+### 3.3 Ator social
 
-### 3.3 Ator Social
+Ator social é uma pessoa, um grupo humano ou uma instituição que, de forma transitória ou permanente, é capaz de agir e de produzir fatos na situação (LACERDA; BOTELHO; COLUSSI, [s.d.]). É indispensável definir com clareza quem está explicando, isto é, quais atores se responsabilizam pelo planejamento, para ter clareza sobre a **governabilidade** deles diante dos problemas (LIMA; LIMA, [s.d.]).
 
-Um ator social é uma pessoa, um grupo humano ou uma instituição que, de forma transitória ou permanente, é capaz de agir e de **produzir fatos** na situação. Faz-se indispensável que se defina claramente quem está explicando, ou seja, quem é ou quem são os atores que se responsabilizam pelo planejamento, podendo-se ter clareza a respeito da **governabilidade** destes para o enfrentamento dos problemas.
+## 4. Enfoque normativo e enfoque situacional
 
----
+Segundo o artigo-fonte, o **enfoque normativo** funda-se nos princípios do planejamento econômico e salienta a eficiência no uso dos recursos. Nessa concepção, o planejador não considera que existam outros atores sociais capazes de planejar e produzir ações estratégicas, detém todo o poder, e a única escassez é a de recursos econômicos, o que restringe o critério de eficácia ao econômico (LIMA; LIMA, [s.d.]).
 
-## 4. Enfoque Normativo vs. Enfoque Situacional
+Em contraste, o mesmo artigo apresenta o enfoque situacional com estes traços:
 
-O **enfoque normativo** funda-se nos princípios do planejamento econômico, salientando a eficiência na utilização dos recursos. Nessa concepção, a postura do planejador não considera que existam outros atores sociais capazes de planejar e produzir ações estratégicas. O planejador detém todo o poder e a única escassez existente diz respeito aos recursos econômicos, permitindo que o critério de eficácia se restrinja ao econômico.
+- parte da **situação**: a explicação de cada ator depende de sua posição na realidade;
+- reconhece que o **poder é compartilhado**: não pertence a um único ator;
+- tem como centro de ação os **problemas**, e não os setores;
+- admite que o planejamento pode ser utilizado por **todos os atores sociais**.
 
-O **enfoque situacional**, por outro lado:
+Na descrição do método, a UNA-SUS/UFSC observa que a noção de **momento** rompe com a ideia de etapas sequenciais do planejamento (LACERDA; BOTELHO; COLUSSI, [s.d.]); no artigo-fonte, todos os momentos comportam os demais (LIMA; LIMA, [s.d.]).
 
-- Reconhece a existência de **múltiplos atores** com capacidade de planejamento e ação estratégica.
-- Entende que o **poder é compartilhado** e não pertence a um único ator.
-- Baseia-se na **explicação situacional**: cada ator vê a realidade de forma diferente, condicionado por seus interesses, visões de mundo e ideologias.
-- Tem como centro de ação os **problemas** (e não setores).
-- Rompe com a ideia de **etapas sequenciais**, substituindo-as pela noção de **momentos** que se interpenetram.
+## 5. Os quatro momentos
 
----
+O PES organiza-se em quatro momentos. O quadro abaixo resume cada um; os itens seguintes detalham o conteúdo (LIMA; LIMA, [s.d.]).
 
-## 5. Os Quatro Momentos
+| Momento | O que explica | Elementos principais |
+|:--------|:--------------|:---------------------|
+| Explicativo | Como a realidade é para os outros e para nós | Lista e seleção de problemas; Fluxograma Situacional; nós críticos; Arquivo de Problemas |
+| Normativo | As ações e operações que "devem ser" efetuadas para resolver cada problema, com base em onde se quer chegar | Cenários; operações (recursos, produtos e resultados, tempo, responsabilidades) |
+| Estratégico | As dificuldades para construir a viabilidade do plano | Oponentes e aliados; motivação dos atores; cooperação, cooptação e conflito |
+| Tático-operacional | Como se dá a execução das decisões | Ação com recálculo do plano; Sistema de Direção Estratégica |
 
-O PES se organiza em quatro **momentos**. A noção de momento rompe com a ideia de etapas sequenciais do planejamento — todos os momentos comportam os demais e não se processam em sequência rígida.
-
-### 5.1 Momento Explicativo
+### 5.1 Momento explicativo
 
 **Explicação de como a realidade é para os outros e para nós.**
 
-Nesse momento:
+- Listam-se os problemas e selecionam-se segundo o valor que têm para o ator que planeja.
+- Em seguida, processam-se com o **Fluxograma Situacional**, que explica os problemas de forma sistêmica, entendendo que uns são consequências de outros.
+- Selecionam-se os **nós críticos**: os pontos de maior sensibilidade para a mudança, que serão o alvo das ações.
+- Este momento **nunca cessa**: deve ser atualizado sempre que a realidade mudar.
 
-- **Listam-se os problemas** e procede-se à sua seleção segundo o valor dos mesmos para o ator que planeja.
-- Segue-se ao seu processamento, utilizando o **Fluxograma Situacional** para a explicação sistêmica dos problemas, com a compreensão de que uns são consequências de outros.
-- Selecionam-se os **nós críticos** — pontos de maior sensibilidade para a mudança e que serão o alvo das ações para enfrentar o problema.
-- Este momento **nunca cessa**, devendo ser permanentemente atualizado em função das mudanças que podem ocorrer na realidade.
+Não basta listar problemas: espera-se uma **explicação** deles e do seu valor, isto é, de sua importância para o projeto de cada ator. Os problemas não selecionados formam o **Arquivo de Problemas**, porque, mudando a realidade, podem passar a fazer parte do plano.
 
-É preciso ir além da usual e mera listagem de problemas: espera-se o desenvolvimento de uma **explicação** destes problemas e o seu valor (importância para o projeto de cada ator). Os problemas não selecionados constituirão o **Arquivo de Problemas**, pois, conforme muda a realidade, podem passar a fazer parte do plano.
+### 5.2 Momento normativo
 
-### 5.2 Momento Normativo
+**Explicação dos fundamentos do delineamento das ações e operações que "devem ser" efetuadas para resolver cada problema, com base na definição de onde se quer chegar.**
 
-**Explicação dos fundamentos do delineamento das propostas de ações e operações que "devem ser" efetuadas para resolver cada problema, com base na definição de onde se quer chegar.**
+- É um cálculo aproximado dos resultados e, por isso, uma grande aposta.
+- Matus alerta que as apostas devem se fundamentar no cálculo de **contextos possíveis** (cenários), com mais técnicas de **previsão** do que de **predição**, para se preparar para incertezas e surpresas.
+- Os cenários podem ser **otimista**, **central** e **pessimista**; cada um marca as condições e pressupostos de ocorrência do plano.
+- Definidos os cenários, estabelecem-se as **operações** para os problemas dentro de cada um. A constante avaliação da situação permite saber em que cenário se está e escolher as operações mais adequadas para chegar à **situação-objetivo**, a que se quer alcançar.
 
-Características:
+O plano expressa-se em **operações ou módulos de ação**, o que mostra os compromissos assumidos por quem planeja e assina o plano e os responsáveis por cada proposta. É um conjunto de compromissos definidos em termos de:
 
-- Constitui-se como um **cálculo aproximado dos resultados** e é, portanto, uma grande aposta.
-- Matus alerta para a necessidade de fundamentar as apostas no cálculo de **contextos possíveis** (cenários) em que o plano pode ocorrer.
-- Os cenários podem ser: **cenário otimista**, **cenário central** e **cenário pessimista**, onde cada um demarca as condições e pressupostos de ocorrência do plano.
-- Definidos os prováveis cenários, devem ser estabelecidas as **operações** para os problemas dentro de cada um.
+- **recursos** (econômicos, políticos, organizacionais e de conhecimento);
+- **produtos e resultados**;
+- **tempo**;
+- **responsabilidades**.
 
-O princípio básico é que o plano se expresse em **operações ou módulos de ação**, garantindo continuidade metodológica desde as linhas gerais até os requisitos práticos. O plano é um conjunto de compromissos claramente definidos em termos de:
+Cada operação relaciona recursos, produtos e resultados, precisados quantitativa e qualitativamente, e deve ter um responsável, meios definidos, resultados esperados sobre o problema, recursos previstos e tempo para alcançar os resultados.
 
-- **Recursos** (econômicos, políticos, organizacionais, de conhecimento)
-- **Produtos e Resultados**
-- **Tempo**
-- **Responsabilidades**
-
-Cada operação deve estruturar-se como uma relação entre recursos, produtos e resultados, precisados **quantitativa e qualitativamente**. Cada operação deverá: ter um responsável, definir os meios necessários, definir os resultados propostos, exigir a aplicação dos recursos previstos e precisar o tempo necessário.
-
-### 5.3 Momento Estratégico
+### 5.3 Momento estratégico
 
 **Explicação das dificuldades para a construção da viabilidade do plano.**
 
-Neste momento:
+- Analisa-se a **viabilidade política** do plano, considerando oponentes e aliados das operações propostas no momento normativo.
+- Articula-se o **"deve ser"** com o **"pode ser"**, formulando estratégias que deem viabilidade ao plano.
 
-- Analisa-se a **viabilidade política do plano**, considerando oponentes e aliados em relação às operações propostas no momento normativo.
-- Articula-se o **"deve ser"** com o **"pode ser"**, formulando estratégias que possibilitem incorporar viabilidade ao plano.
+Para Matus, estratégia tem duas conotações: o que é importante fazer para chegar ao objetivo e o modo de agir com o outro para obter sua colaboração ou vencer sua resistência.
 
-Para Matus, o conceito de estratégia tem duas conotações:
+Como o poder é compartilhado, o planejamento exige a **sistematização do cálculo político**, que envolve conflitos e construção de consensos. A viabilidade de uma operação parte da **motivação** dos atores que controlam recursos de poder: a combinação de seus interesses e valores, expressa na intensidade (alta, média ou baixa) com que apoiam ou rejeitam a operação. Se a operação for conflitiva, a viabilidade pode ser construída por estratégias de:
 
-1. O que é **importante fazer** para chegar ao objetivo pretendido.
-2. O **modo com que se deve agir** para com o outro a fim de obter sua colaboração ou vencer sua resistência.
+- **cooperação**: negociação para acordar vias de cooperação;
+- **cooptação**: um ator ganha a adesão de outros à sua posição;
+- **conflito**: diminui a força do ator com interesses contrários.
 
-O poder é compartilhado, e o planejamento requer a **sistematização do cálculo político**, envolvendo conflitos e construção de consensos. A análise de viabilidade parte da **análise de motivação dos atores** que controlam certos recursos de poder. A motivação é a combinação dos interesses e valores daqueles atores, traduzindo-se na intensidade (alta, média ou baixa) com que apoiam ou rejeitam determinada operação.
+### 5.4 Momento tático-operacional
 
-Se a operação for **conflitiva**, a construção de sua viabilidade pode ser feita por meio de estratégias de:
+**Explicação de como se dá a execução das decisões.**
 
-- **Cooperação** — negociações para acordar vias de cooperação.
-- **Cooptação** — quando um ator ganha a adesão de outros atores para a sua própria posição.
-- **Conflito** — visa diminuir a força do ator com interesses contrários.
+Nele ocorre a **ação**, com o plano como suporte, adaptado às circunstâncias, em processo contínuo e sem rupturas. Exige o **recálculo do plano**, que perpassa os três momentos anteriores e a ação praticada, para reavaliar o que foi proposto e readaptá-lo à realidade que muda.
 
-### 5.4 Momento Tático-Operacional
+> "A resolução de problemas e operações é a forma de correção mútua entre plano e realidade, ajustando-se um ao outro conforme as circunstâncias e mediante decisões e ações concretas." (MATUS, 1996, p. 487 apud LIMA; LIMA, [s.d.], p. 5)
 
-**Explicação de como se dá a execução de nossas decisões.**
-
-Nele ocorre a **ação**, tendo o plano como suporte, adaptado às circunstâncias do momento, em um processo contínuo, sem rupturas. Isso exige um **recálculo do plano** que deverá perpassar os três momentos anteriores e a ação praticada, reavaliando o proposto em cada um deles e suas necessárias readaptações à realidade que muda constantemente.
-
-> "A resolução de problemas e operações é a forma de correção mútua entre plano e realidade, ajustando-se um ao outro conforme as circunstâncias e mediante decisões e ações concretas." (Matus, 1996:487)
-
-Esse é o momento em que se verifica o **domínio do plano sobre a improvisação ou dessa sobre o plano**. O momento em que o plano começa a ser implementado é o momento da **mediação entre o conhecimento e a ação**.
-
-A constante avaliação da situação para efetuar possíveis correções exige um **Sistema de Direção Estratégica**, que se define como o planejamento no dia a dia, evidenciando as necessidades mais importantes em termos de decisão.
-
----
+Aqui se verifica se o plano domina a improvisação ou a improvisação domina o plano. O início da implementação é o momento de **mediação entre o conhecimento e a ação**. A avaliação constante da situação exige um **Sistema de Direção Estratégica**, definido como o planejamento no dia a dia, que evidencia as necessidades mais importantes de decisão (LIMA; LIMA, [s.d.]).
 
 ## 6. Triângulo de Governo
 
-O **Triângulo de Governo** é um modelo proposto por Matus que articula três variáveis interdependentes e essenciais para a capacidade de governar.
+> **Fonte desta seção:** Misse (2017), artigo que aplica a teoria de Matus a programas de gestão social. É uma síntese de segunda mão (Misse cita Matus, 1993 e 1995, sem que esses textos tenham sido lidos aqui). Outras formulações, inclusive as do próprio Matus para cada vértice, podem ser mais amplas e não foram verificadas.
 
-> **Nota:** O artigo-fonte principal (Lima & Lima) não aborda este tópico. Esta seção resume o que as buscas retornaram sobre artigos acadêmicos (ENAP, REDALYC); os textos integrais não foram lidos, então convém conferir em *Política, Planejamento e Governo* (Matus) antes de citar.
+Misse (2017, p. 138) resume, a partir de Matus, o ambiente do gestor público em três vértices de um triângulo:
 
-### 6.1 Projeto de Governo
+1. **Projeto de Governo** (ou Plano): expressa a direção que se pretende imprimir à administração.
+2. **Capacidade de Governo**: determinada, segundo Misse, pela competência técnica e pelos recursos financeiros.
+3. **Governabilidade**: o potencial de articulação com os agentes envolvidos, nos âmbitos interno e externo.
 
-A direção estratégica escolhida pelo governo, derivada de uma leitura do sistema social. Abrange os **problemas selecionados**, como serão abordados e como as oportunidades serão aproveitadas.
-### 6.2 Governabilidade do Sistema
-
-A capacidade política de **converter projetos em ação governamental efetiva**. Depende de variáveis controladas e não controladas pelo ator que governa. A relação entre a governabilidade do sistema e o conteúdo do projeto é central nessa variável.
-
-### 6.3 Capacidade de Governo
-
-O lado técnico e gerencial do governo. Refere-se ao **acervo de técnicas, métodos, destrezas e experiências** de um ator e sua equipe de governo. Depende do **capital intelectual** acumulado pelas equipes dirigentes.
-
-### Interdependência
-
-As três variáveis se condicionam mutuamente:
-
-- Uma **baixa capacidade de governo** afeta a governabilidade, a qualidade das propostas e a gestão governamental.
-- A **governabilidade do sistema** limita o projeto de governo e faz demandas sobre a capacidade de governo.
-
----
+Misse trata os três como fatores **cumulativos** (MISSE, 2017, p. 142) e observa que reuni-los "não é algo de fácil consecução" (MISSE, 2017, p. 138). Misse propõe ainda um quarto elemento, o **direcionamento**, que é contribuição própria e **não faz parte** do triângulo de Matus (MISSE, 2017, p. 142).
 
 ## 7. Triângulo de Ferro
 
-O funcionamento eficaz de um governo que pretende validar seus planos com fatos exige, como requisito organizacional prático, um sistema triangular que articula:
+Para que um governo valide seus planos com fatos, o artigo-fonte afirma que é preciso, como requisito organizacional prático, um sistema que ligue **um plano modular, um orçamento por programas e uma gerência por operações**. O autor chama esse sistema triangular de **Triângulo de Ferro** (LIMA; LIMA, [s.d.]).
 
-1. **Plano modular** — estrutura de operações e ações.
-2. **Orçamento por programas** — alocação de recursos vinculada às operações.
-3. **Gerência por operações** — gestão responsável pela execução.
+Matus ressalva:
 
-Matus ressalta:
-
-> "Nada disto é possível se o jogo institucional for de baixa responsabilidade, não existir gerência criativa por operações e o dirigente não prestar contas nem souber exigi-las de seus executivos." (Matus, 1991:42)
-
----
+> "[...] nada disto é possível se o jogo institucional for de baixa responsabilidade, não existir gerência criativa por operações e o dirigente não prestar contas nem souber exigi-las de seus executivos." (MATUS, 1991, p. 42 apud LIMA; LIMA, [s.d.], p. 5)
 
 ## 8. Síntese
 
-A essência do PES reside na **mediação entre o conhecimento e a ação**. O plano elaborado por este método está **constantemente em reelaboração**, mas sempre em condições de dar suporte ao dirigente.
+Para Lima e Lima, a essência do PES está na **mediação entre o conhecimento e a ação**, e o plano elaborado por esse método está sempre em reelaboração, em condições de dar suporte ao dirigente. Construir um plano pelo PES não é improvisar nem fazer um cálculo assistemático e imediatista, mas realizar uma **ação reflexiva e responsável**, que valoriza (LIMA; LIMA, [s.d.]):
 
-A construção de um plano pelo PES não consiste em mera improvisação nem em um cálculo assistemático e imediatista, mas sim em uma **ação reflexiva e responsável** frente ao objeto planejado, que valoriza:
+- a elaboração **participativa**;
+- a adequada **identificação de problemas**;
+- a definição das **operações** para enfrentá-los e dos **responsáveis** por elas;
+- a coerência de **objetivos e metas**;
+- a definição dos **recursos necessários** e do **cronograma de execução**;
+- um **sistema de acompanhamento** constante, que permita reformulações quando necessárias.
 
-- A elaboração **participativa**
-- A adequada **identificação de problemas** existentes
-- A definição das **operações** para enfrentá-los
-- Os **responsáveis** pelas operações
-- A coerência nos **objetivos e metas**
-- A definição dos **recursos necessários**
-- O **cronograma de execução**
-- O estabelecimento de um **sistema de acompanhamento** constante que possibilite reformulações quando necessárias
+## 9. Glossário
 
----
+- **Arquivo de Problemas**: conjunto dos problemas não selecionados, que podem entrar no plano se a realidade mudar.
+- **Ator social**: pessoa, grupo humano ou instituição capaz de agir e produzir fatos na situação.
+- **Cenário**: contexto possível de realização do plano (otimista, central ou pessimista).
+- **Fluxograma Situacional**: instrumento que explica sistemicamente os problemas e permite indicar os nós críticos.
+- **Nó crítico**: ponto de maior sensibilidade para a mudança, alvo das ações sobre o problema.
+- **Operação**: módulo de ação do plano, com responsável, meios, resultados, recursos e tempo definidos.
+- **Problema**: discrepância, para um ator, entre a realidade e uma norma de referência que ele aceita ou cria.
+- **Situação**: conjunto de problemas identificados e analisados da perspectiva de um ator social.
+- **Situação-objetivo**: a situação que se quer alcançar.
+- **Sistema de Direção Estratégica**: o planejamento no dia a dia, que evidencia as necessidades mais importantes de decisão.
+- **Triângulo de Ferro**: sistema que liga plano modular, orçamento por programas e gerência por operações.
+- **Triângulo de Governo**: projeto de governo, capacidade de governo e governabilidade, segundo a síntese de Misse (2017).
 
 ## Referências
 
-### Obras citadas por Lima & Lima (não consultadas diretamente)
+### Fontes lidas
 
-- HUERTAS, F. **Entrevista com Matus.** São Paulo: FUNDAP, 1996.
-- MATUS, C. **Estratégias políticas.** São Paulo: FUNDAP, 1996.
-- MATUS, C. **O Método PES: roteiro de análise teórica.** São Paulo: FUNDAP, 1997b.
-- MATUS, C. **El líder sin Estado Mayor.** La Paz: Altadir, 1997a.
-- MATUS, C. **Teoría de la producción y el juego social.** Isla Negra: Altadir, 1998.
-- MATUS, C. (1991). Obra citada em Lima & Lima, p. 42. Título não confirmado nas fontes consultadas.
+LACERDA; BOTELHO; COLUSSI (prenomes não informados na página). Carlos Matus e o Planejamento Estratégico Situacional (PES). In: UNIVERSIDADE FEDERAL DE SANTA CATARINA. *Planejamento na Atenção Básica*: o planejamento em saúde na América Latina, tópico 3. [S.l.]: UNA-SUS/UFSC, [s.d.]. Disponível em: https://unasus2.moodle.ufsc.br/pluginfile.php/33878/mod_resource/content/1/un2/top3_1.html. Acesso em: 9 nov. 2026.
 
-### Fontes consultadas
+LIMA, Liliana Aparecida de; LIMA, Viviana Aparecida de. *Planejamento Estratégico Situacional – PES*. [S.l.: s.n.], [s.d.]. 5 p. Disponível em: http://www.estiva-es.com.br/pdf/planeja.pdf. Acesso em: 9 nov. 2026.
 
-- LIMA, L. A.; LIMA, V. A. **Planejamento Estratégico Situacional - PES.** Artigo (PUC-Campinas / SINPRO-Campinas). Disponível em: http://www.estiva-es.com.br/pdf/planeja.pdf. Fonte principal deste documento.
-- LACERDA, J. T.; BOTELHO, L. J.; COLUSSI, C. F. **Carlos Matus e o Planejamento Estratégico Situacional.** Módulo UNA-SUS/UFSC, Unidade 2, Tópico 3. Disponível em: https://unasus2.moodle.ufsc.br/pluginfile.php/33878/mod_resource/content/1/un2/top3_1.html.
-- Seção 6 (Triângulo de Governo): síntese de resumos de busca sobre artigos acadêmicos brasileiros (ENAP, REDALYC, SciELO); os textos integrais não foram lidos.
+MISSE, Daniel Ganem. Gestão social, territórios pacificados e os desafios da articulação institucional. *Confluências*: Revista Interdisciplinar de Sociologia e Direito, [S.l.], v. 19, n. 1, p. 137-155, 2017. Disponível em: https://periodicos.uff.br/confluencias/article/download/34533/19937/115638. Acesso em: 9 nov. 2026.
+
+### Obras citadas pelas fontes e não consultadas
+
+HUERTAS, F. *Entrevista com Matus*. São Paulo: FUNDAP, 1996.
+
+MATUS, Carlos. [Obra não identificada]. 1991. Citada por Lima e Lima com a página 42; não consta na bibliografia do artigo.
+
+MATUS, Carlos. *Política, planejamento e governo*. Brasília: IPEA, 1993. Citada por Misse (2017).
+
+MATUS, Carlos. *Estratégias políticas*. São Paulo: FUNDAP, 1996.
+
+MATUS, Carlos. *El líder sin Estado Mayor*. La Paz: Altadir, 1997a.
+
+MATUS, Carlos. *O Método PES*: roteiro de análise teórica. São Paulo: FUNDAP, 1997b.
+
+MATUS, Carlos. *Teoría de la producción y el juego social*. Isla Negra: Altadir, 1998.
+
+> Nota: o artigo de Lima e Lima não diz a que obra se refere "Matus, 1996". *Estratégias políticas* é a única obra de Matus de 1996 na bibliografia do artigo, mas a correspondência não está confirmada. Os prenomes seguem as formas abreviadas ou ausentes das fontes.
