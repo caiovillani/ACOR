@@ -9,13 +9,13 @@
 
 ## Resumo
 
-O PES é um método de planejamento criado pelo chileno Carlos Matus para aumentar a capacidade de governar. Seu núcleo são os **problemas** e as **operações** para enfrentá-los. O método se organiza em quatro **momentos** (explicativo, normativo, estratégico e tático-operacional), que se interpenetram e não formam etapas sequenciais. O momento estratégico trata da viabilidade política do plano, e o Triângulo de Ferro descreve o sistema de gestão que o sustenta.
+O PES é um método de planejamento criado pelo chileno Carlos Matus para aumentar a capacidade de governar. Seu núcleo são os **problemas** e as **operações** para enfrentá-los. O método se organiza em quatro **momentos** (explicativo, normativo, estratégico e tático-operacional), que se interpenetram e não formam etapas sequenciais. O momento estratégico trata da viabilidade política do plano. O Triângulo de Ferro (plano modular, orçamento por programas e gerência por operações) é o sistema que o artigo-fonte apresenta como requisito para validar os planos com fatos.
 
 ## 1. Contexto histórico
 
 Carlos Matus dirigiu a Divisão de Assessoria do **Instituto Latino-Americano de Planejamento Econômico e Social (ILPES)**, no Chile. Foi **Ministro da Economia** durante o governo Allende e presidiu o **Banco Central do Chile**. Com a ditadura militar, foi preso e exilado, e exerceu depois a presidência da **Fundação Altadir** (Alta Direção), na Venezuela (LIMA; LIMA, [s.d.]).
 
-A proposta de Matus começou a ser esboçada no **início dos anos 1970**, quando Matus passou a questionar a planificação normativa do planejamento econômico-social. Matus refletiu sobre como viabilizar um projeto de governo, embora afirme que o planejamento pode ser utilizado por todos os atores sociais. Depois da queda do governo Allende, dedicou-se a entender o que deu errado naquela gestão e passou a defender que dirigentes — em governos, partidos, sindicatos ou organizações públicas e privadas — ampliem sua **capacidade de governo** com o conjunto de conhecimentos que chama de **planejamento moderno**. O produto principal desse conjunto é o PES (LIMA; LIMA, [s.d.]).
+A proposta de Matus começou a ser esboçada no **início dos anos 1970**, quando passou a questionar a planificação normativa do planejamento econômico-social. Refletiu então sobre como viabilizar um projeto de governo, embora refira que o planejamento pode ser utilizado por todos os atores sociais. Depois da queda do governo Allende, dedicou-se a entender o que deu errado naquela gestão e passou a defender que dirigentes — em governos, partidos, sindicatos ou organizações públicas e privadas — ampliem sua **capacidade de governo** com o conjunto de conhecimentos que chama de **planejamento moderno**. O produto principal desse conjunto é o PES (LIMA; LIMA, [s.d.]).
 
 Segundo o artigo, o PES tem orientado experiências de planejamento no Brasil por reunir um corpo teórico e um método que, apesar de complexo, é bem articulado (LIMA; LIMA, [s.d.]). Misse (2017, p. 138) descreve o planejamento, na proposta de Matus, como "instrumento nuclear da ação de governo".
 
@@ -25,7 +25,7 @@ Matus afirma que a necessidade de planejar traz, em primeiro lugar, o reconhecim
 
 > "Se planejar é sinônimo de conduzir conscientemente, não existirá então alternativa ao planejamento. Ou planejamos ou somos escravos da circunstância. Negar o planejamento é negar a possibilidade de escolher o futuro, é aceitá-lo seja ele qual for." (MATUS, 1996, p. 14 apud LIMA; LIMA, [s.d.], p. 1)
 
-Quem não opta pelo planejamento busca a alternativa oposta ao plano: "[...] a improvisação ou a resignação [...]" (MATUS, 1996, p. 16 apud LIMA; LIMA, [s.d.], p. 1). O autor diz que o planejamento "[...] é o cálculo que precede e preside a ação" (MATUS, 1996, p. 17 apud LIMA; LIMA, [s.d.], p. 1) e o define como:
+Quem não opta pelo planejamento busca a alternativa oposta ao plano: "[...] a improvisação ou a resignação [...]" (MATUS, 1996, p. 16 apud LIMA; LIMA, [s.d.], p. 1). Matus diz que o planejamento "[...] é o cálculo que precede e preside a ação" (MATUS, 1996, p. 17 apud LIMA; LIMA, [s.d.], p. 1) e o define como:
 
 > "[...] o cálculo situacional sistemático que relaciona o presente com o futuro e o conhecimento com a ação. A reflexão imediatista, tecnocrática e parcial não é planejamento, e tampouco é planejamento a reflexão que se isola da ação e torna-se uma mera pesquisa sobre o futuro." (MATUS, 1996, p. 19 apud LIMA; LIMA, [s.d.], p. 1)
 
@@ -135,7 +135,7 @@ Aqui se verifica se o plano domina a improvisação ou a improvisação domina o
 
 > **Fonte desta seção:** Misse (2017), artigo que aplica a teoria de Matus a programas de gestão social. É uma síntese de segunda mão (Misse cita Matus, 1993 e 1995, sem que esses textos tenham sido lidos aqui). Outras formulações, inclusive as do próprio Matus para cada vértice, podem ser mais amplas e não foram verificadas.
 
-Misse (2017, p. 138) resume, a partir de Matus, o ambiente do gestor público em três vértices de um triângulo:
+Segundo Misse (2017, p. 138), Matus sintetiza o ambiente do gestor público em três vértices de um triângulo:
 
 1. **Projeto de Governo** (ou Plano): expressa a direção que se pretende imprimir à administração.
 2. **Capacidade de Governo**: determinada, segundo Misse, pela competência técnica e pelos recursos financeiros.
@@ -145,7 +145,7 @@ Misse trata os três como fatores **cumulativos** (MISSE, 2017, p. 142) e observ
 
 ## 7. Triângulo de Ferro
 
-Para que um governo valide seus planos com fatos, o artigo-fonte afirma que é preciso, como requisito organizacional prático, um sistema que ligue **um plano modular, um orçamento por programas e uma gerência por operações**. O autor chama esse sistema triangular de **Triângulo de Ferro** (LIMA; LIMA, [s.d.]).
+Para que um governo valide seus planos com fatos, o artigo-fonte afirma que é preciso, como requisito organizacional prático, um sistema que ligue **um plano modular, um orçamento por programas e uma gerência por operações**. Matus chama esse sistema triangular de **Triângulo de Ferro** (LIMA; LIMA, [s.d.]).
 
 Matus ressalva:
 
@@ -181,11 +181,13 @@ Para Lima e Lima, a essência do PES está na **mediação entre o conhecimento 
 
 ### Fontes lidas
 
-LACERDA; BOTELHO; COLUSSI (prenomes não informados na página). Carlos Matus e o Planejamento Estratégico Situacional (PES). In: UNIVERSIDADE FEDERAL DE SANTA CATARINA. *Planejamento na Atenção Básica*: o planejamento em saúde na América Latina, tópico 3. [S.l.]: UNA-SUS/UFSC, [s.d.]. Disponível em: https://unasus2.moodle.ufsc.br/pluginfile.php/33878/mod_resource/content/1/un2/top3_1.html. Acesso em: 9 nov. 2026.
+LACERDA; BOTELHO; COLUSSI (prenomes não informados na página). Carlos Matus e o Planejamento Estratégico Situacional (PES). In: UNIVERSIDADE FEDERAL DE SANTA CATARINA. *Planejamento na Atenção Básica*. O planejamento em saúde na América Latina, tópico 3. [S.l.]: UNA-SUS/UFSC, [s.d.]. Disponível em: https://unasus2.moodle.ufsc.br/pluginfile.php/33878/mod_resource/content/1/un2/top3_1.html. Acesso em: 9 nov. 2026.
 
-LIMA, Liliana Aparecida de; LIMA, Viviana Aparecida de. *Planejamento Estratégico Situacional – PES*. [S.l.: s.n.], [s.d.]. 5 p. Disponível em: http://www.estiva-es.com.br/pdf/planeja.pdf. Acesso em: 9 nov. 2026.
+LIMA, Liliana Aparecida de; LIMA, Viviana Aparecida de. *Planejamento Estratégico Situacional – PES*. [S.l.: s.n.], [s.d.]. 5 p. Disponível em: http://www.estiva-es.com.br/pdf/planeja.pdf. Acesso em: 31 out. 2026.
 
 MISSE, Daniel Ganem. Gestão social, territórios pacificados e os desafios da articulação institucional. *Confluências*: Revista Interdisciplinar de Sociologia e Direito, [S.l.], v. 19, n. 1, p. 137-155, 2017. Disponível em: https://periodicos.uff.br/confluencias/article/download/34533/19937/115638. Acesso em: 9 nov. 2026.
+
+> Nota: de Misse (2017) foram lidos o resumo e os trechos sobre o Triângulo de Governo, e não o artigo inteiro. Na página da UNA-SUS/UFSC, o conteúdo do Quadro 2 (momentos do PES) não consta no texto e não foi lido.
 
 ### Obras citadas pelas fontes e não consultadas
 
